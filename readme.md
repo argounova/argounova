@@ -28,11 +28,13 @@ I'm currently attending a full stack bootcamp at the University of Central Flori
 💻 Full stack web developer
 🏎 ~~Professional~~ racing car driver
 📷 Photographer
-🐉 Dragon owner​
+🐉 Dragon owner
 🎧 EDM enthusiast and record collector
 ```
 
 ---
 > That's not the point.  The point is, who will stop me?
+
+Ayn Rand
 
 Ayn Rand
