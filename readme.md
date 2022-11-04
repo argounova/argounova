@@ -7,6 +7,8 @@
 
 *Welcome to my GitHub profile!*
 
+I'm currently attending a full stack bootcamp at the University of Central Florida.  My primary focus includes 3rd-party API's, mySQL databases, Express and Node.js.  I also enjoy creating polished front-ends via CSS frameworks such as Bootstrap, Tailwind and Bulma.
+
 <details>
 <summary>Trained Tech</summary>
 
@@ -22,19 +24,14 @@
 
 &nbsp;
 
-I'm currently attending a full stack bootcamp at the University of Central Florida.  My primary focus includes 3rd-party API's, mySQL databases, Express and Node.js.  I also enjoy creating polished front-ends via CSS frameworks such as Bootstrap, Tailwind and Bulma.
-
-```
+```html
 💻 Full stack web developer
-🏎 ~~Professional~~ racing car driver
-📷 Photographer
 🐉 Dragon owner
+📷 Photographer
+🏎 Amateur racing car driver
 🎧 EDM enthusiast and record collector
 ```
-
 ---
-> That's not the point.  The point is, who will stop me?
+> Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong.
 
-Ayn Rand
-
-Ayn Rand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayn Rand
