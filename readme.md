@@ -35,4 +35,4 @@ I'm currently attending a full stack bootcamp at the University of Central Flori
 ---
 > That's not the point.  The point is, who will stop me?
 
-- Ayn Rand
+Ayn Rand
