@@ -2,7 +2,7 @@
  <img src="Congress Avenue Bridge Downtown Austin Texas.jpeg" alt="congress-ave-bridge-header-image">
 </picture>
 <div align="center">
-    <img src="style.svg" alt="css-in-readme">
+    <img src="style.svg" alt="css-in-readme" height="55px">
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/craig-putzstuck-8473b7161/">
