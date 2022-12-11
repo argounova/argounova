@@ -3,7 +3,6 @@
 </picture>
 
 
-## About Me
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/craig-putzstuck-8473b7161/">
@@ -20,9 +19,23 @@
     </a>
 </div>
 
-I'm currently attending a full stack bootcamp at the University of Central Florida.  My primary focus includes 3rd-party API's, mySQL databases, Express and Node.js.  I also enjoy creating polished front-ends via CSS frameworks such as Bootstrap, Tailwind and Bulma.
+## About Me
 
-<div align="center">
+I am a full stack JavaScript web developer and simply put, I build web applications. Currently enrolled in an in-depth MERN bootcamp at the University of Central Florida, I've been supremely focused on advancing my understanding of everything from HTML and CSS to MongoDB, Apollo and mySQL.
+
+Originally from Colorado, I currently live off the western coast of Florida about an hour north of Tampa Bay. My partner and I enjoy exploring Florida, cooking and spending time with our pets. When I'm not in front of the computer, you can typically find me in the garage tinkering with one of my cars.
+
+```html
+💻 Full stack web developer
+🐉 Dragon owner
+📷 Photographer
+🏎 Amateur racing car driver
+🎧 EDM enthusiast and record collector
+```
+
+## Technologies
+
+<div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -40,15 +53,11 @@ I'm currently attending a full stack bootcamp at the University of Central Flori
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
 </div>
 
-&nbsp;
+## Statistics
 
-```html
-💻 Full stack web developer
-🐉 Dragon owner
-📷 Photographer
-🏎 Amateur racing car driver
-🎧 EDM enthusiast and record collector
-```
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=argounova&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 ---
 > Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong.
 
