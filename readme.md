@@ -55,9 +55,9 @@ Originally from Colorado, I currently live off the western coast of Florida abou
 
 ## Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=argounova&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=242424)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=argounova&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0d0d)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argounova&layout=compact&theme=midnight-purple&hide_border=true&bg_color=242424)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argounova&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
