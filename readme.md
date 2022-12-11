@@ -48,3 +48,6 @@ I'm currently attending a full stack bootcamp at the University of Central Flori
 > Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayn Rand
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=argounova&style=flat-square&color=blue" alt=""/>
+</div>
