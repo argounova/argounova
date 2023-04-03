@@ -25,14 +25,6 @@ I am a full stack JavaScript web developer and simply put, I build web applicati
 
 Originally from Colorado, I currently live off the western coast of Florida about an hour north of Tampa Bay. My partner and I enjoy exploring Florida, cooking and spending time with our pets. When I'm not in front of the computer, you can typically find me in the garage tinkering with one of my cars.
 
-```html
-💻 Full stack web developer
-🐉 Dragon owner
-📷 Photographer
-🏎 Amateur racing car driver
-🎧 EDM enthusiast and record collector
-```
-
 ## Technologies
 
 <div>
