@@ -5,7 +5,7 @@
     <img src="style.svg" alt="css-in-readme" height="55px">
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/craig-putzstuck-8473b7161/" target="_blank">
+    <a href="https://www.linkedin.com/in/CraigPutzstuck/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/craig.putzstuck.5" target="_blank">
