@@ -21,8 +21,13 @@
 
 ## About Me
 
-Passionate data enthusiast with a strong foundation in full stack web development.  Fascinated with how technology can uncover insights and drive informed decision making.  I aim to deepen my understanding of statistical modeling, machine learning algorithms, and data visualization techniques.  I'm particularly interested in applying these tools to real-world problems, such as predictive analytics, natural language processing, and AI-powered solutions.
-My background in web development provides me with a unique perspective on data-driven applications. Proficient in languages like Python and R, as well as front-end technologies like React. This enables me to not only analyze data but also create interactive and user-friendly data visualizations and dashboards.
+I build data pipelines, dashboards, and forecasting models. Right now that's at Mishimoto, a performance aftermarket brand, where I run ingestion from six ad, analytics, and ecommerce sources into Snowflake and build the Tableau reporting on top of it.
+
+Before that I freelanced in data and web development, and I still do both. I'm also working on an M.S. in Data Science at Eastern University.
+
+**Tools I use most:** SQL, Python, R, Snowflake, n8n, Tableau, BigQuery, Vue.js, Node.js
+
+Most of my day-to-day work lives in private company repos, so what you'll find here is mostly personal projects.
 
 ## Technologies
 
